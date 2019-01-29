@@ -1,0 +1,5 @@
+initialize: git init
+git add .  adds files to local respository
+git commit -m "first commit"
+create repository on github
+git remote add orgin 'remote repository url'
